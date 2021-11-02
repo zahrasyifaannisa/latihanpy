@@ -30,7 +30,7 @@ berikut adalah contoh sederhananya :
 print('{0:>3} {1:>16}'.format(0, 10**0))
 ```
 **SCREENSHOT OUTPUT PROGRAM**
-![.](ss/2.png)
+![.](ss/2.PNG)
 
 ## **Lab 2**
 ## input
@@ -79,7 +79,7 @@ print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 ### **FLOWCART**
 ![.](ss/3.png)
 ### **SCREENSHOT PROGRAM**
-![.](ss/1.png)
+![.](ss/1.PNG)
 
 ## **Program menghitung luas keliling lingkaran**
 
@@ -108,4 +108,4 @@ print("Keliling lingkaran adalah : "+ str(keliling))
 ## **FLOWCART**
 ![.](ss/4.png)
 ## **SCREENSHOT PROGRAM**
-![.](ss/5.png)
+![.](ss/5.PNG)
